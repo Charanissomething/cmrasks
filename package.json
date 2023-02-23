@@ -1,0 +1,19 @@
+{
+  "name": "cmrasks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jquery-1.11.0.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Charanissomething/cmrasks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Charanissomething/cmrasks/issues"
+  },
+  "homepage": "https://github.com/Charanissomething/cmrasks#readme"
+}
